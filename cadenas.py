@@ -18,7 +18,7 @@ print cadc
 #saber de que tipo es la cadena
 print type(cads)
 
-#REPATICION Y CONCATENACION
+#REPETICION Y CONCATENACION
 cad = "Cadena 1 " * 3
 
 print cad
